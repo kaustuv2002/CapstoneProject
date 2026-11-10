@@ -1,0 +1,24 @@
+S 1001 "John Smith" "2003-04-12" "john.smith@example.test" "Computer Science"
+S 1002 "Emma Johnson" "2002-08-25" "emma.johnson@example.test" "Cybersecurity"
+S 1003 "Michael Brown" "2001-11-06" "michael.brown@example.test" "Mathematics"
+S 1004 "Sophia Davis" "2004-02-19" "sophia.davis@example.test" "Computer Science"
+S 1005 "Daniel Wilson" "2003-09-30" "daniel.wilson@example.test" "Information Technology"
+I 2001 "Robert Anderson" "1980-05-15" "robert.anderson@example.test" "Computer Science"
+I 2002 "Sarah Miller" "1978-07-21" "sarah.miller@example.test" "Mathematics"
+I 2003 "David Thompson" "1985-03-10" "david.thompson@example.test" "Information Technology"
+C "CIS101" "Introduction to IT" 3 "Fall2026" 2003
+C "CSC101" "Introduction to Programming" 3 "Fall2026" 2001
+C "CSC201" "Data Structures" 4 "Fall2026" 2001
+C "CSC250" "Cybersecurity Fundamentals" 3 "Fall2026" 2003
+C "MAT201" "Calculus I" 4 "Fall2026" 2002
+C "MAT202" "Calculus II" 4 "Fall2026" 2002
+E 1001 "CSC101" "Fall2026" "A" "Completed"
+E 1001 "MAT201" "Fall2026" "B" "Completed"
+E 1002 "CSC250" "Fall2026" "A" "Completed"
+E 1002 "CSC101" "Fall2026" "B" "Completed"
+E 1003 "MAT201" "Fall2026" "A" "Completed"
+E 1003 "MAT202" "Fall2026" "" "Enrolled"
+E 1004 "CSC101" "Fall2026" "A" "Completed"
+E 1004 "CSC201" "Fall2026" "B" "Completed"
+E 1005 "CIS101" "Fall2026" "C" "Completed"
+E 1005 "CSC250" "Fall2026" "" "Enrolled"
