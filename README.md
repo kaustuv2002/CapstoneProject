@@ -58,8 +58,8 @@ Supported completed grades are `A`, `B`, `C`, `D`, and `F`. Enter `P` when updat
 ## Capstone documents and diagrams
 
 - [Module 1 Capstone Proposal](CapstoneProposal.pdf)
-- [UML Class Diagram](UMLClassDiagram.drawio.png)
-- [UML Activity Diagram](UMLActivityDiagram.drawio.png)
+- [UMLClass Diagram](UMLClass.drawio.png)
+- [UML Activity Diagram](UMLActivity.drawio.png)
 
 The original Module 1 proposal is retained to show the initial design. The final implementation differs in a few details: operator overloads are implemented in `Student` (not in `Instructor` or `Course`), and GPA is calculated from enrollment and course data rather than stored in `Student`. The UML files are kept unchanged.
 
